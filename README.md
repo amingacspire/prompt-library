@@ -16,11 +16,26 @@ Every prompt here has been used in real work. No theoretical prompts, no filler.
 
 ## Index
 
+### Task Prompts
+
 | Prompt | Category | Model Tested |
 |--------|----------|--------------|
 | [Conditional Access Policy Review](prompts/m365/conditional-access-policy-review.md) | M365 | Claude |
 | [Incident Ticket Summarizer](prompts/msp-ops/incident-ticket-summarizer.md) | MSP Ops | Claude |
 | [Phishing Email Analysis](prompts/security/phishing-email-analysis.md) | Security | Claude |
+| [Email Security Domain Check](prompts/security/email-security-domain-check.md) | Security | Any |
+
+### Agentic Patterns
+
+Reusable structures for agent workflows, pulled from patterns I run in production.
+
+| Pattern | What it solves |
+|---------|----------------|
+| [Adversarial Review Loop](prompts/claude-code/adversarial-review-loop.md) | A model cannot catch its own blind spots; a second independent reviewer can |
+| [Independent Evaluator Loop](prompts/claude-code/independent-evaluator-loop.md) | Quality gates the author cannot talk its way past |
+| [Multi-Agent Router](prompts/claude-code/multi-agent-router.md) | Routing requests to specialist subagents and synthesizing one honest answer |
+| [Incremental Build with Verification](prompts/claude-code/incremental-build-with-verification.md) | Long builds in fragile platforms failing silently mid-run |
+| [Agent Memory Priority Layer](prompts/claude-code/agent-memory-priority-layer.md) | Memory cleanup eating standing rules; stale notes accumulating forever |
 
 ## Using a Prompt
 

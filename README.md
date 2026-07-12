@@ -1,6 +1,6 @@
 # Prompt Library
 
-Battle-tested LLM prompts for IT operations. Written and maintained by [Andrew Minga](https://mingasolutions.com), Manager of Customer Experience Engineering at C Spire Business. If prompts are your thing, the free browser-based [IT ops tools](https://mingasolutions.com/tools/) probably are too.
+Battle-tested LLM prompts for IT operations. Written and maintained by [Andrew Minga](https://andrewminga.com), Manager of Customer Experience Engineering at C Spire Business. If prompts are your thing, the free browser-based [IT ops tools](https://andrewminga.com/tools/) probably are too.
 
 Every prompt here has been used in real work. No theoretical prompts, no filler. Each one documents what it does, what model it was tested against, and what to watch out for.
 

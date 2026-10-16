@@ -21,6 +21,8 @@ Every prompt here has been used in real work. No theoretical prompts, no filler.
 | Prompt | Category | Model Tested |
 |--------|----------|--------------|
 | [Conditional Access Policy Review](prompts/m365/conditional-access-policy-review.md) | M365 | Claude |
+| [Azure Policy Compliance Triage](prompts/azure/azure-policy-compliance-triage.md) | Azure | Claude (untested draft) |
+| [PowerShell Az Script Review](prompts/azure/powershell-az-script-review.md) | Azure | Claude (untested draft) |
 | [Incident Ticket Summarizer](prompts/msp-ops/incident-ticket-summarizer.md) | MSP Ops | Claude |
 | [Phishing Email Analysis](prompts/security/phishing-email-analysis.md) | Security | Claude |
 | [Email Security Domain Check](prompts/security/email-security-domain-check.md) | Security | Any |

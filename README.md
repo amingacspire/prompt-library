@@ -21,11 +21,19 @@ Every prompt here has been used in real work. No theoretical prompts, no filler.
 | Prompt | Category | Model Tested |
 |--------|----------|--------------|
 | [Conditional Access Policy Review](prompts/m365/conditional-access-policy-review.md) | M365 | Claude |
+| [Intune Device Compliance Summary](prompts/m365/intune-compliance-summary.md) | M365 | Claude (untested draft) |
 | [Azure Policy Compliance Triage](prompts/azure/azure-policy-compliance-triage.md) | Azure | Claude (untested draft) |
 | [PowerShell Az Script Review](prompts/azure/powershell-az-script-review.md) | Azure | Claude (untested draft) |
+| [NSG Rule Audit](prompts/azure/nsg-rule-audit.md) | Azure | Claude (untested draft) |
+| [AVD Session Host Health Summary](prompts/azure/avd-session-host-health.md) | Azure | Claude (untested draft) |
+| [Cost Anomaly Explainer](prompts/azure/cost-anomaly-explainer.md) | Azure | Claude (untested draft) |
 | [Incident Ticket Summarizer](prompts/msp-ops/incident-ticket-summarizer.md) | MSP Ops | Claude |
+| [Windows Event Log Triage](prompts/msp-ops/windows-event-log-triage.md) | MSP Ops | Claude (untested draft) |
+| [PowerShell Runbook Generator](prompts/msp-ops/powershell-runbook-generator.md) | MSP Ops | Claude (untested draft) |
 | [Phishing Email Analysis](prompts/security/phishing-email-analysis.md) | Security | Claude |
 | [Email Security Domain Check](prompts/security/email-security-domain-check.md) | Security | Any |
+| [PowerShell Script Security Review](prompts/security/powershell-script-security-review.md) | Security | Claude (untested draft) |
+| [PowerShell Module Test Scaffold (Pester 5)](prompts/claude-code/pester-test-scaffold.md) | Claude Code | Claude (untested draft) |
 
 ### Agentic Patterns
 

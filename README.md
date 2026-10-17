@@ -34,6 +34,20 @@ Every prompt here has been used in real work. No theoretical prompts, no filler.
 | [Email Security Domain Check](prompts/security/email-security-domain-check.md) | Security | Any |
 | [PowerShell Script Security Review](prompts/security/powershell-script-security-review.md) | Security | Claude (untested draft) |
 | [PowerShell Module Test Scaffold (Pester 5)](prompts/claude-code/pester-test-scaffold.md) | Claude Code | Claude (untested draft) |
+| [AVD Domain-Join Failure Triage](prompts/azure/avd-domain-join-failure-triage.md) | Azure | Claude (untested draft) |
+| [AVD Golden Image Pre-Capture Checklist](prompts/azure/avd-golden-image-precapture-checklist.md) | Azure | Claude (untested draft) |
+| [GDAP Relationship Status Review](prompts/m365/gdap-relationship-status-review.md) | M365 | Claude (untested draft) |
+| [Exchange Permission Change Audit](prompts/m365/exchange-permission-change-audit.md) | M365 | Claude (untested draft) |
+| [Intune Enrollment Gap Check](prompts/m365/intune-enrollment-gap-check.md) | M365 | Claude (untested draft) |
+| [EDR Exclusion Request Review](prompts/security/edr-exclusion-request-review.md) | Security | Claude (untested draft) |
+| [MFA Reset Request Verification](prompts/security/mfa-reset-request-verification.md) | Security | Claude (untested draft) |
+| [Password Expiration Alert Digest](prompts/security/password-expiration-alert-digest.md) | Security | Claude (untested draft) |
+| [Backup Incident Closure Summary](prompts/msp-ops/backup-incident-closure-summary.md) | MSP Ops | Claude (untested draft) |
+| [Automation Time-Saved Calculator](prompts/msp-ops/automation-time-saved-calculator.md) | MSP Ops | Claude (untested draft) |
+| [Quarterly Automation Status Report](prompts/msp-ops/quarterly-automation-status-report.md) | MSP Ops | Claude (untested draft) |
+| [SQL Service Login Failure Triage](prompts/msp-ops/sql-service-login-failure-triage.md) | MSP Ops | Claude (untested draft) |
+| [Monthly Chargeback Reconciliation](prompts/msp-ops/monthly-chargeback-reconciliation.md) | MSP Ops | Claude (untested draft) |
+| [Alert Noise Gating Review](prompts/msp-ops/alert-noise-gating-review.md) | MSP Ops | Claude (untested draft) |
 
 ### Agentic Patterns
 
